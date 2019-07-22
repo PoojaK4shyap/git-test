@@ -1,6 +1,6 @@
 # Gamification is More Than Just Points & Badges: Lord of the Rings
 
-Recently, I watched Lord of the Rings, second time of course but consciously with a different angle. This time, I translated Frodo Baggins journey in terms Gamification strategy. By introducing the gaming element in the movie, I discovered that the trilogy became all the more interesting and innovative.
+Recently,  I watched Lord of the Rings, second time of course but consciously with a different angle. This time, I translated Frodo Baggins journey in terms Gamification strategy. By introducing the gaming element in the movie, I discovered that the trilogy became all the more interesting and innovative.
 
 **Introduction to the world of Gamification: Task assigned**
 
