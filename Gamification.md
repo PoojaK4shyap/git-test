@@ -1,10 +1,11 @@
 # Gamification is More Than Just Points & Badges: Lord of the Rings
 
+
 Recently,  I watched Lord of the Rings, second time of course but consciously with a different angle. This time, I translated Frodo Baggins journey in terms Gamification strategy. By introducing the gaming element in the movie, I discovered that the trilogy became all the more interesting and innovative.
 
 **Introduction to the world of Gamification: Task assigned**
 
-Frodo Baggins is having a good time at his Shire, then one day he inherits a ring from his uncle, Bilbo. He was then asked to carry it away from the Shire and dispose it off to Mount Doom.
+Frodo  Baggins is having a good time at his Shire, then one day he inherits a ring from his uncle, Bilbo. He was then asked to carry it away from the Shire and dispose it off to Mount Doom.
 
 The user (Frodo) is assigned with a task (carrying the ring away) right at the onset after a brief virtual description of the world from where he belongs. The beginning also gives us the insight of the nature of the user (Frodo) and the limitations within which he has lived so far.
 
